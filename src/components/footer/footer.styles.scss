@@ -1,0 +1,38 @@
+
+.Footer{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+
+
+
+.crl {
+    align-self: flex-end;
+
+
+    .cr{
+    
+        font-size: 10px;
+    }
+}
+
+.logof{
+    
+    width : 40px;
+}
+
+.Corp li{
+    align-content: flex-start;
+    list-style: none;
+    font-size: 12px;
+}
+
+.Help li{
+    align-content: flex-start;
+    list-style: none;
+    font-size: 12px;
+}
